@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35881" started-at="2018-08-07T02:19:15Z" finished-at="2018-08-07T02:19:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35881" started-at="2018-08-07T02:19:15Z" finished-at="2018-08-07T02:19:51Z">
+      <class name="com.test.selenium.SeleniumProject.EcommerceLoginTestNg">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.selenium.SeleniumProject.EcommerceLoginTestNg@1753acfe]" name="setUp" is-config="true" duration-ms="22393" started-at="2018-08-06T21:19:15Z" finished-at="2018-08-06T21:19:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginWithScuccessScenrio()[pri:0, instance:com.test.selenium.SeleniumProject.EcommerceLoginTestNg@1753acfe]" name="testLoginWithScuccessScenrio" duration-ms="10505" started-at="2018-08-06T21:19:37Z" finished-at="2018-08-06T21:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithScuccessScenrio -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.test.selenium.SeleniumProject.EcommerceLoginTestNg@1753acfe]" name="cleanUp" is-config="true" duration-ms="2961" started-at="2018-08-06T21:19:48Z" finished-at="2018-08-06T21:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.test.selenium.SeleniumProject.EcommerceLoginTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
